@@ -1,4 +1,4 @@
-yawf
+Krip
 ====
 
 web-frameworks are about HTML+CSS+Javascript that simplify creation of web applications, built around MVC.
